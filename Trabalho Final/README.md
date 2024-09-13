@@ -78,6 +78,4 @@ O modelo atingiu uma precisão de **89.09%** na previsão da sobrevivência dos 
 *Importância das features no modelo Random Forest*
 
 ## 5. Conclusão
-O modelo Random Forest apresentou um bom desempenho ao prever a sobrevivência dos passageiros do Titanic. A aplicação de técnicas de engenharia de características e a análise exploratória de dados foram fundamentais para o sucesso do projeto.
-
-![Link do Projeto](https://github.com/RegretCode/Ferramentas-de-Inteligencia-Artificial/blob/main/Trabalho%20Final/Trabalho-Final-FerrIA.ipynb)
+O modelo Random Forest apresentou um bom desempenho ao prever a sobrevivência dos passageiros do Titanic. A aplicação de técnicas de engenharia de características e a análise exploratória de dados foram fundamentais para o sucesso do projeto. ***[Link do Projeto](https://github.com/RegretCode/Ferramentas-de-Inteligencia-Artificial/blob/main/Trabalho%20Final/Trabalho-Final-FerrIA.ipynb)***
